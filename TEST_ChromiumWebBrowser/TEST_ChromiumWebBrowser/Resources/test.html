@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>주소 검색</title>
+</head>
+<body>
+<input type="text" width=200 id="messageBox">
+<input type="button" value="폼에서 메시지박스 띄우기" onclick="messageBoxShow()">
+<button type='button' onclick='closeF()'>클릭하면 프로그램이 종료됩니다</buttno>
+
+<script>
+function helloWorld(message) {
+ alert(message); 
+}
+
+function messageBoxShow()
+{
+ var textBox = document.getElementById("messageBox").value;
+ bound.callForm(textBox); 
+}
+
+function closeF() {
+  bound.closeForm();
+}
+</script>
+
+</body>
+</html>
