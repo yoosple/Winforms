@@ -1,6 +1,6 @@
 1. Custom Contorl
-   a) Input only number TextBox.
-   b) Custom Calendar
+   \na) Input only number TextBox.
+   \nb) Custom Calendar
    
 2. Project
   a) Calulator example: WinForm MVP, WinForm MVVM
