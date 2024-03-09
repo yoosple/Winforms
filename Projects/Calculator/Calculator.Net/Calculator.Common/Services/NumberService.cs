@@ -1,12 +1,7 @@
 ﻿using Calculator.Common.Enums;
 using Calculator.Common.Interfaces;
-using Calculator.Common.Models;
+using Calculator.Models;
 using Calculator.Models.Enums;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Calculator.Common.Services
 {
