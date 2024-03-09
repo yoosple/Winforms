@@ -1,7 +1,7 @@
 
 # WinForm Examples
 
-1. Custom Contorl  
+1. Custom Control  
    a) Input only number TextBox.  
    b) Custom Calendar  
    
