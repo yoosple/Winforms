@@ -2,7 +2,7 @@
 # WinForm Examples
 
 1. Custom Control  
-   a) Input only number TextBox.  
+   a) Input only number TextBox  
    b) Custom Calendar  
    
 2. Project  
