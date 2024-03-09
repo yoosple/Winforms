@@ -6,7 +6,7 @@
    b) Custom Calendar  
    
 2. Project  
-  a) Calculator.Netframework: WinForm MVP example 
+  a) Calculator.Netframework: WinForm MVP example  
   b) Calculator.Net: WinForm MVVM example  
   c) ChromiumWebBrowser example  
   d) Observer: Disign Pattern Observer example  
