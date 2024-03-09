@@ -6,7 +6,7 @@
    b) Custom Calendar  
    
 2. Project  
-  a) Calulator example: WinForm MVP, WinForm MVVM  
+  a) Calulator: WinForm MVP, WinForm MVVM example  
   b) ChromiumWebBrowser example  
   c) Disign Pattern Observer example  
 
